@@ -1,0 +1,43 @@
+[
+{
+    "url": "images/super0.jpg",
+    "date": "2017,10,21",
+    "price": 26.0,
+    "oldPrice": 49,
+    "introduce": "韩后仙人掌补水达人面膜 22ml*5"
+},
+{
+    "url": "images/super1.png",
+    "date": "2017,10,22",
+    "price": 16.9,
+    "oldPrice": 29,
+    "introduce": "番茄派么么哒润唇膏3.5g"
+},
+{
+    "url": "images/super2.jpg",
+    "date": "2017,10,23",
+    "price": 65.0,
+    "oldPrice": 110,
+    "introduce": "思亲肤莴苣黄瓜沁颜化妆水180ml"
+},
+{
+    "url": "images/super3.jpg",
+    "date": "2017,10,24",
+    "price": 49.0,
+    "oldPrice": 69,
+    "introduce": "索芙特水润轻盈无硅油洗发套盒（洗发水300ml+护发素300ml）"
+},
+{
+    "url": "images/super4.jpg",
+    "date": "2017,10,25",
+    "price": 179.0,
+    "oldPrice": 298,
+    "introduce": "Cure去角质水凝露250g"
+},
+{
+    "url": "images/super5.jpg",
+    "date": "2017,10,26",
+    "price": 59.0,
+    "oldPrice": 98,
+    "introduce": "韩后茶蕊嫩白去角质素60ml"
+}]

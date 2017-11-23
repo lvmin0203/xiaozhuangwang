@@ -1,0 +1,332 @@
+[
+{
+    "url": "images/hot0.jpg",
+    "logo": "澳格菲",
+    "introduce": "澳格菲薰衣草精油舒缓嫩白身体乳",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": "3折",
+    "numPeople": 180,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot1.jpg",
+    "logo": "韩后",
+    "introduce": "韩后仙人掌补水达人面膜22ml*5",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": "7.4折",
+    "numPeople": 18,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot2.jpg",
+    "logo": "THE FACE SHOP 菲诗小铺",
+    "introduce": "菲诗小铺每日草本芦荟泡沫洁面乳",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": "6折",
+    "numPeople": 280,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot3.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 380,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot4.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 16,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot5.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 100,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot6.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 40,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot7.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople":35,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot8.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 78,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot9.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 67,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot10.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 78,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot11.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 90,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot12.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 57,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot13.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.9,
+    "numPeople": 670,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot14.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 2.0,
+    "numPeople": 180,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot15.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 6.7,
+    "numPeople": 23,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot16.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 35,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot17.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 48,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot18.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 58,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot19.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 500,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot20.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 788,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot21.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 966,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot22.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 222,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot23.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 33,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot24.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 44,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot25.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 66,
+    "sign" : "爆款甩货"
+},
+{
+    "url": "images/hot26.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 77,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot27.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 88,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot28.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 99,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot29.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 0,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot30.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 47,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot31.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 78,
+    "sign" : "真心便宜"
+},
+{
+    "url": "images/hot32.jpg",
+    "logo": "RE:CIPE",
+    "introduce": "韩国RE:CIPE水晶防晒喷雾150ml",
+    "price": 65.0,
+    "oldPrice": 60.00,
+    "discount": 9.4,
+    "numPeople": 543,
+    "sign" : "真心便宜"
+}
+]
